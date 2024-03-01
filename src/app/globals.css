@@ -2,8 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-ul,li{
-
-    padding:0px;
-    
+ul,
+li {
+  padding: 0px;
 }
